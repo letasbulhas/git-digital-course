@@ -1,3 +1,5 @@
-# Curso digital: Git/Versionamento
+# teste git restore
 
-## Salvando as modificações no Git
+## salvando as alterações do git
+
+* usando o push
