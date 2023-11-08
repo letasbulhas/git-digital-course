@@ -4,3 +4,4 @@
 
 * usando o push
 * usando o pull
+* comando git fetch
